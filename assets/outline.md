@@ -1,13 +1,8 @@
 # AI Camp Outline
 
 # Introduction
-- Intro to AI: Fields, Applications and Porject workflow
-
-# The Basics
-- Mathematics (Gradients, Matrices and Probabilities)
-- Python Programming
-- Data Manipulation with Numpy & Pandas
-- Data Visualization with Matplotlib & Seaborn
+- Intro to AI: Data, Fields, Applications, and Project Workflow
+- Python Programming & Libraries
 
 # Classical Machine Learning
 ## Supervised Learning (Regression & Classification)
@@ -38,7 +33,7 @@
 
 # Reinforcement Learning
 - RL Framework (Agent, Environment, Observation, Action, Reward)
-- Value Based Methods (Q-Learning & DQN)
+- Value-Based Methods (Q-Learning & DQN)
 - Policy Based Methods
 
 # Generative AI
